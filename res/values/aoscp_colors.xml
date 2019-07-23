@@ -36,4 +36,6 @@
     <color name="black_transparent_3">#75000000</color>
     <color name="black_transparent_4">#8A000000</color>
     <color name="black_transparent_5">#C1000000</color>
+
+    <color name="ic_background">#4285f4</color>
 </resources>
